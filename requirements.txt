@@ -1,0 +1,6 @@
+Python 3.9+
+PyTorch
+torchvision
+matplotlib
+scikit-image
+Pillow
